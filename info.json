@@ -2,10 +2,15 @@
     "available_space": true,
     "files": [
         {
+            "name": "Bon y los Enemigos del Silencio Irene-uK3Fk-TycNk.mp4",
+            "path": "music_v2/videos/Bon y los Enemigos del Silencio Irene-uK3Fk-TycNk.mp4",
+            "size": 4.635124736
+        },
+        {
             "name": "Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
             "path": "music_v2/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
             "size": 9.912700928000001
         }
     ],
-    "total_size": 9.912700928000001
+    "total_size": 14.547825664000001
 }
