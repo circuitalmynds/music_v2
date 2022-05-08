@@ -17,9 +17,19 @@
             "size": 20.823783424000002
         },
         {
+            "name": "Cryin' Mood-2zGc7EP9O0I.mp4",
+            "path": "music_v2/videos/Cryin' Mood-2zGc7EP9O0I.mp4",
+            "size": 2.9039738880000003
+        },
+        {
             "name": "Blue Minor-6h03OKL4kaQ.mp4",
             "path": "music_v2/videos/Blue Minor-6h03OKL4kaQ.mp4",
             "size": 3.7539317760000004
+        },
+        {
+            "name": "Al Bowlly - I`VE GOT YOU UNDER MY SKIN - the RAY NOBLE ORCHESTRA 1936-7JNsNb15Dc8.mp4",
+            "path": "music_v2/videos/Al Bowlly - I`VE GOT YOU UNDER MY SKIN - the RAY NOBLE ORCHESTRA 1936-7JNsNb15Dc8.mp4",
+            "size": 16.113875968000002
         },
         {
             "name": "Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
@@ -32,5 +42,5 @@
             "size": 3.44484352
         }
     ],
-    "total_size": 69.39738316800002
+    "total_size": 88.41523302400002
 }
