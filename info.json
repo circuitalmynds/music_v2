@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
+            "path": "music_v2/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
+            "size": 9.912700928000001
+        }
+    ],
+    "total_size": 9.912700928000001
 }
