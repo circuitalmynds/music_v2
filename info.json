@@ -2,19 +2,9 @@
     "available_space": true,
     "files": [
         {
-            "name": "Bon y los Enemigos del Silencio Irene-uK3Fk-TycNk.mp4",
-            "path": "music_v2/videos/Bon y los Enemigos del Silencio Irene-uK3Fk-TycNk.mp4",
-            "size": 4.635124736
-        },
-        {
-            "name": "Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4",
-            "path": "music_v2/videos/Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4",
-            "size": 26.826998784
-        },
-        {
-            "name": "Fra Lippo Lippi - Angel (Music Video)-Y-1_caICO1w.mp4",
-            "path": "music_v2/videos/Fra Lippo Lippi - Angel (Music Video)-Y-1_caICO1w.mp4",
-            "size": 20.823783424000002
+            "name": "Al Bowlly - I`VE GOT YOU UNDER MY SKIN - the RAY NOBLE ORCHESTRA 1936-7JNsNb15Dc8.mp4",
+            "path": "music_v2/videos/Al Bowlly - I`VE GOT YOU UNDER MY SKIN - the RAY NOBLE ORCHESTRA 1936-7JNsNb15Dc8.mp4",
+            "size": 16.113875968000002
         },
         {
             "name": "Cryin' Mood-2zGc7EP9O0I.mp4",
@@ -22,14 +12,9 @@
             "size": 2.9039738880000003
         },
         {
-            "name": "Blue Minor-6h03OKL4kaQ.mp4",
-            "path": "music_v2/videos/Blue Minor-6h03OKL4kaQ.mp4",
-            "size": 3.7539317760000004
-        },
-        {
-            "name": "Al Bowlly - I`VE GOT YOU UNDER MY SKIN - the RAY NOBLE ORCHESTRA 1936-7JNsNb15Dc8.mp4",
-            "path": "music_v2/videos/Al Bowlly - I`VE GOT YOU UNDER MY SKIN - the RAY NOBLE ORCHESTRA 1936-7JNsNb15Dc8.mp4",
-            "size": 16.113875968000002
+            "name": "Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4",
+            "path": "music_v2/videos/Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4",
+            "size": 26.826998784
         },
         {
             "name": "Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
@@ -37,10 +22,25 @@
             "size": 9.912700928000001
         },
         {
+            "name": "Fra Lippo Lippi - Angel (Music Video)-Y-1_caICO1w.mp4",
+            "path": "music_v2/videos/Fra Lippo Lippi - Angel (Music Video)-Y-1_caICO1w.mp4",
+            "size": 20.823783424000002
+        },
+        {
             "name": "McPherson Is Rehearsin' (To Swing)-7yShhx0WiDI.mp4",
             "path": "music_v2/videos/McPherson Is Rehearsin' (To Swing)-7yShhx0WiDI.mp4",
             "size": 3.44484352
+        },
+        {
+            "name": "Bon y los Enemigos del Silencio Irene-uK3Fk-TycNk.mp4",
+            "path": "music_v2/videos/Bon y los Enemigos del Silencio Irene-uK3Fk-TycNk.mp4",
+            "size": 4.635124736
+        },
+        {
+            "name": "Blue Minor-6h03OKL4kaQ.mp4",
+            "path": "music_v2/videos/Blue Minor-6h03OKL4kaQ.mp4",
+            "size": 3.7539317760000004
         }
     ],
-    "total_size": 88.41523302400002
+    "total_size": 88.415233024
 }
