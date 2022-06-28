@@ -1,46 +1,55 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "Al Bowlly - I`VE GOT YOU UNDER MY SKIN - the RAY NOBLE ORCHESTRA 1936-7JNsNb15Dc8.mp4",
-            "path": "music_v2/videos/Al Bowlly - I`VE GOT YOU UNDER MY SKIN - the RAY NOBLE ORCHESTRA 1936-7JNsNb15Dc8.mp4",
-            "size": 16.113875968000002
+            "path": "v2/videos/Al Bowlly - I`VE GOT YOU UNDER MY SKIN - the RAY NOBLE ORCHESTRA 1936-7JNsNb15Dc8.mp4",
+            "size": 16.113875968000002,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Al Bowlly - I`VE GOT YOU UNDER MY SKIN - the RAY NOBLE ORCHESTRA 1936-7JNsNb15Dc8.mp4?raw=true"
         },
         {
             "name": "Cryin' Mood-2zGc7EP9O0I.mp4",
-            "path": "music_v2/videos/Cryin' Mood-2zGc7EP9O0I.mp4",
-            "size": 2.9039738880000003
+            "path": "v2/videos/Cryin' Mood-2zGc7EP9O0I.mp4",
+            "size": 2.9039738880000003,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Cryin' Mood-2zGc7EP9O0I.mp4?raw=true"
         },
         {
             "name": "Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4",
-            "path": "music_v2/videos/Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4",
-            "size": 26.826998784
+            "path": "v2/videos/Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4",
+            "size": 26.826998784,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4?raw=true"
         },
         {
             "name": "Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
-            "path": "music_v2/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
-            "size": 9.912700928000001
+            "path": "v2/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
+            "size": 9.912700928000001,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4?raw=true"
         },
         {
             "name": "Fra Lippo Lippi - Angel (Music Video)-Y-1_caICO1w.mp4",
-            "path": "music_v2/videos/Fra Lippo Lippi - Angel (Music Video)-Y-1_caICO1w.mp4",
-            "size": 20.823783424000002
+            "path": "v2/videos/Fra Lippo Lippi - Angel (Music Video)-Y-1_caICO1w.mp4",
+            "size": 20.823783424000002,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Fra Lippo Lippi - Angel (Music Video)-Y-1_caICO1w.mp4?raw=true"
         },
         {
             "name": "McPherson Is Rehearsin' (To Swing)-7yShhx0WiDI.mp4",
-            "path": "music_v2/videos/McPherson Is Rehearsin' (To Swing)-7yShhx0WiDI.mp4",
-            "size": 3.44484352
+            "path": "v2/videos/McPherson Is Rehearsin' (To Swing)-7yShhx0WiDI.mp4",
+            "size": 3.44484352,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/McPherson Is Rehearsin' (To Swing)-7yShhx0WiDI.mp4?raw=true"
         },
         {
             "name": "Bon y los Enemigos del Silencio Irene-uK3Fk-TycNk.mp4",
-            "path": "music_v2/videos/Bon y los Enemigos del Silencio Irene-uK3Fk-TycNk.mp4",
-            "size": 4.635124736
+            "path": "v2/videos/Bon y los Enemigos del Silencio Irene-uK3Fk-TycNk.mp4",
+            "size": 4.635124736,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Bon y los Enemigos del Silencio Irene-uK3Fk-TycNk.mp4?raw=true"
         },
         {
             "name": "Blue Minor-6h03OKL4kaQ.mp4",
-            "path": "music_v2/videos/Blue Minor-6h03OKL4kaQ.mp4",
-            "size": 3.7539317760000004
+            "path": "v2/videos/Blue Minor-6h03OKL4kaQ.mp4",
+            "size": 3.7539317760000004,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Blue Minor-6h03OKL4kaQ.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 88.415233024
 }
