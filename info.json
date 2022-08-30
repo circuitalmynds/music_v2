@@ -2,54 +2,132 @@
     "available_space": true,
     "content": [
         {
+            "id": "7JNsNb15Dc8",
             "name": "Al Bowlly - I`VE GOT YOU UNDER MY SKIN - the RAY NOBLE ORCHESTRA 1936-7JNsNb15Dc8.mp4",
             "path": "v2/videos/Al Bowlly - I`VE GOT YOU UNDER MY SKIN - the RAY NOBLE ORCHESTRA 1936-7JNsNb15Dc8.mp4",
-            "size": 16.113875968000002,
+            "size": 15.736206999999999,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Al Bowlly - I`VE GOT YOU UNDER MY SKIN - the RAY NOBLE ORCHESTRA 1936-7JNsNb15Dc8.mp4?raw=true"
         },
         {
+            "id": "2zGc7EP9O0I",
             "name": "Cryin' Mood-2zGc7EP9O0I.mp4",
             "path": "v2/videos/Cryin' Mood-2zGc7EP9O0I.mp4",
-            "size": 2.9039738880000003,
+            "size": 2.835912,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Cryin' Mood-2zGc7EP9O0I.mp4?raw=true"
         },
         {
+            "id": "lXCYni_d1Nw",
             "name": "Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4",
             "path": "v2/videos/Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4",
-            "size": 26.826998784,
+            "size": 26.198241,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4?raw=true"
         },
         {
+            "id": "3jLzYXXm6J8",
             "name": "Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
             "path": "v2/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
-            "size": 9.912700928000001,
+            "size": 9.680372,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4?raw=true"
         },
         {
+            "id": "Y-1_caICO1w",
             "name": "Fra Lippo Lippi - Angel (Music Video)-Y-1_caICO1w.mp4",
             "path": "v2/videos/Fra Lippo Lippi - Angel (Music Video)-Y-1_caICO1w.mp4",
-            "size": 20.823783424000002,
+            "size": 20.335725999999998,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Fra Lippo Lippi - Angel (Music Video)-Y-1_caICO1w.mp4?raw=true"
         },
         {
+            "id": "7yShhx0WiDI",
             "name": "McPherson Is Rehearsin' (To Swing)-7yShhx0WiDI.mp4",
             "path": "v2/videos/McPherson Is Rehearsin' (To Swing)-7yShhx0WiDI.mp4",
-            "size": 3.44484352,
+            "size": 3.364105,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/McPherson Is Rehearsin' (To Swing)-7yShhx0WiDI.mp4?raw=true"
         },
         {
+            "id": "uK3Fk-TycNk",
             "name": "Bon y los Enemigos del Silencio Irene-uK3Fk-TycNk.mp4",
             "path": "v2/videos/Bon y los Enemigos del Silencio Irene-uK3Fk-TycNk.mp4",
-            "size": 4.635124736,
+            "size": 4.526489,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Bon y los Enemigos del Silencio Irene-uK3Fk-TycNk.mp4?raw=true"
         },
         {
+            "id": "6h03OKL4kaQ",
             "name": "Blue Minor-6h03OKL4kaQ.mp4",
             "path": "v2/videos/Blue Minor-6h03OKL4kaQ.mp4",
-            "size": 3.7539317760000004,
+            "size": 3.665949,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Blue Minor-6h03OKL4kaQ.mp4?raw=true"
+        },
+        {
+            "id": "WkrjkN6o-u4",
+            "name": "The Best of Helen Forrest (1938-1944)-WkrjkN6o-u4.mp4",
+            "path": "v2/videos/The Best of Helen Forrest (1938-1944)-WkrjkN6o-u4.mp4",
+            "size": 90.743652,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/The Best of Helen Forrest (1938-1944)-WkrjkN6o-u4.mp4?raw=true"
+        },
+        {
+            "id": "K_WIGqKS5dA",
+            "name": "Control Machete - Si Señor-K_WIGqKS5dA.mp4",
+            "path": "v2/videos/Control Machete - Si Señor-K_WIGqKS5dA.mp4",
+            "size": 19.193329,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Control Machete - Si Señor-K_WIGqKS5dA.mp4?raw=true"
+        },
+        {
+            "id": "7siu5MQ_8s0",
+            "name": "Babasonicos - Putita (video oficial) [HD]-7siu5MQ_8s0.mp4",
+            "path": "v2/videos/Babasonicos - Putita (video oficial) [HD]-7siu5MQ_8s0.mp4",
+            "size": 53.673745999999994,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Babasonicos - Putita (video oficial) [HD]-7siu5MQ_8s0.mp4?raw=true"
+        },
+        {
+            "id": "e4fAoGTvNLc",
+            "name": "The Puppet-e4fAoGTvNLc.mp4",
+            "path": "v2/videos/The Puppet-e4fAoGTvNLc.mp4",
+            "size": 6.328754,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/The Puppet-e4fAoGTvNLc.mp4?raw=true"
+        },
+        {
+            "id": "TCAeDIF2svc",
+            "name": "Carlos Santana - EUROPA (en vivo)-TCAeDIF2svc.mp4",
+            "path": "v2/videos/Carlos Santana - EUROPA (en vivo)-TCAeDIF2svc.mp4",
+            "size": 37.323268999999996,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Carlos Santana - EUROPA (en vivo)-TCAeDIF2svc.mp4?raw=true"
+        },
+        {
+            "id": "F3lhv4McnxU",
+            "name": "MY MINE - Can delight    (Extended)-F3lhv4McnxU.mp4",
+            "path": "v2/videos/MY MINE - Can delight    (Extended)-F3lhv4McnxU.mp4",
+            "size": 10.653888,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/MY MINE - Can delight    (Extended)-F3lhv4McnxU.mp4?raw=true"
+        },
+        {
+            "id": "E3NSA1_bq1c",
+            "name": "Conflict - Mighty and Superior-E3NSA1_bq1c.mp4",
+            "path": "v2/videos/Conflict - Mighty and Superior-E3NSA1_bq1c.mp4",
+            "size": 6.000928999999999,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Conflict - Mighty and Superior-E3NSA1_bq1c.mp4?raw=true"
+        },
+        {
+            "id": "2MAI2j3MpfI",
+            "name": "Rimsky-Korsakov - The Legend of the Invisible City of Kitezh - Leningrad _ Mravinsky-2MAI2j3MpfI.mp4",
+            "path": "v2/videos/Rimsky-Korsakov - The Legend of the Invisible City of Kitezh - Leningrad _ Mravinsky-2MAI2j3MpfI.mp4",
+            "size": 47.557739999999995,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Rimsky-Korsakov - The Legend of the Invisible City of Kitezh - Leningrad _ Mravinsky-2MAI2j3MpfI.mp4?raw=true"
+        },
+        {
+            "id": "3SaN5JyYMwE",
+            "name": "Extremoduro - Cabezabajo (Acústico)-3SaN5JyYMwE.mp4",
+            "path": "v2/videos/Extremoduro - Cabezabajo (Acústico)-3SaN5JyYMwE.mp4",
+            "size": 6.217978,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Extremoduro - Cabezabajo (Acústico)-3SaN5JyYMwE.mp4?raw=true"
+        },
+        {
+            "id": "NGsWtVxm3F4",
+            "name": "Los Cadetes de Linares - Pista Secreta-NGsWtVxm3F4.mp4",
+            "path": "v2/videos/Los Cadetes de Linares - Pista Secreta-NGsWtVxm3F4.mp4",
+            "size": 4.799665,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Los Cadetes de Linares - Pista Secreta-NGsWtVxm3F4.mp4?raw=true"
         }
     ],
     "ready_to_push": true,
-    "total_size": 88.415233024
+    "total_size": 368.8359509999999
 }
