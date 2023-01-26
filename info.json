@@ -51,6 +51,13 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4?raw=true"
         },
         {
+            "id": "3jLzYXXm6J8",
+            "name": "Blitz - New Age - (UK_DK. UK, 1983)-3jLzYXXm6J8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/v2/videos/Blitz - New Age - (UK_DK. UK, 1983)-3jLzYXXm6J8.mp4",
+            "size": 7.804295,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Blitz - New Age - (UK_DK. UK, 1983)-3jLzYXXm6J8.mp4?raw=true"
+        },
+        {
             "id": "Y-1_caICO1w",
             "name": "Fra Lippo Lippi - Angel (Music Video)-Y-1_caICO1w.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/v2/videos/Fra Lippo Lippi - Angel (Music Video)-Y-1_caICO1w.mp4",
@@ -156,5 +163,5 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Los Cadetes de Linares - Pista Secreta-NGsWtVxm3F4.mp4?raw=true"
         }
     ],
-    "total_size": 477.66644099999996
+    "total_size": 485.470736
 }
