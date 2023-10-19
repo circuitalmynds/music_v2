@@ -51,6 +51,13 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4?raw=true"
         },
         {
+            "id": "-mCDK26EOGg",
+            "name": "Hablame del Mar, Marinero [-mCDK26EOGg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Hablame del Mar, Marinero [-mCDK26EOGg].mp4",
+            "size": 8.630284,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Hablame del Mar, Marinero [-mCDK26EOGg].mp4?raw=true"
+        },
+        {
             "id": "2MAI2j3MpfI",
             "name": "Rimsky-Korsakov - The Legend of the Invisible City of Kitezh - Leningrad _ Mravinsky-2MAI2j3MpfI.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/Rimsky-Korsakov - The Legend of the Invisible City of Kitezh - Leningrad _ Mravinsky-2MAI2j3MpfI.mp4",
@@ -79,11 +86,25 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Conflict - Mighty and Superior-E3NSA1_bq1c.mp4?raw=true"
         },
         {
+            "id": "IGIfEc6uL1o",
+            "name": "Camisa Molhada [IGIfEc6uL1o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Camisa Molhada [IGIfEc6uL1o].mp4",
+            "size": 3.928153,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Camisa Molhada [IGIfEc6uL1o].mp4?raw=true"
+        },
+        {
             "id": "3SaN5JyYMwE",
             "name": "Extremoduro - Cabezabajo (Acústico)-3SaN5JyYMwE.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/Extremoduro - Cabezabajo (Acústico)-3SaN5JyYMwE.mp4",
             "size": 6.217978,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Extremoduro - Cabezabajo (Acústico)-3SaN5JyYMwE.mp4?raw=true"
+        },
+        {
+            "id": "5iGcUhV3rKw",
+            "name": "Just a Little Bit of Loving [5iGcUhV3rKw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Just a Little Bit of Loving [5iGcUhV3rKw].mp4",
+            "size": 9.071848,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Just a Little Bit of Loving [5iGcUhV3rKw].mp4?raw=true"
         },
         {
             "id": "K_WIGqKS5dA",
@@ -254,6 +275,13 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/McPherson Is Rehearsin' (To Swing)-7yShhx0WiDI.mp4?raw=true"
         },
         {
+            "id": "C_wT4xRpPoU",
+            "name": "Solitude (Alternate Take) [C_wT4xRpPoU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Solitude (Alternate Take) [C_wT4xRpPoU].mp4",
+            "size": 12.631202,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Solitude (Alternate Take) [C_wT4xRpPoU].mp4?raw=true"
+        },
+        {
             "id": "L9aVAtG5xwc",
             "name": "Together In Electric Dreams (Extended⧸2003 Digital Remaster) [L9aVAtG5xwc].mp4",
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/Together In Electric Dreams (Extended⧸2003 Digital Remaster) [L9aVAtG5xwc].mp4",
@@ -303,5 +331,5 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/~ literally just vibin'~  _ chill pop, indie rock and other genres playlist-bm0XIfbfKp4.mp4?raw=true"
         }
     ],
-    "total_size": 895.3724519999997
+    "total_size": 929.6339389999999
 }
