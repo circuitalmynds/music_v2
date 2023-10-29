@@ -2,13 +2,6 @@
     "available_space": true,
     "content": [
         {
-            "id": "F3lhv4McnxU",
-            "name": "MY MINE - Can delight    (Extended)-F3lhv4McnxU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/MY MINE - Can delight    (Extended)-F3lhv4McnxU.mp4",
-            "size": 10.653888,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/MY MINE - Can delight    (Extended)-F3lhv4McnxU.mp4?raw=true"
-        },
-        {
             "id": "3nSEMJW7UqE",
             "name": "The Best of Dvorak [3nSEMJW7UqE].mp4",
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/The Best of Dvorak [3nSEMJW7UqE].mp4",
@@ -21,13 +14,6 @@
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/For a Few Dollars More (From ＂For a Few Dollars More＂) [aRZocrrfMbs].mp4",
             "size": 7.789172,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/For a Few Dollars More (From ＂For a Few Dollars More＂) [aRZocrrfMbs].mp4?raw=true"
-        },
-        {
-            "id": "hSEagNMNBOo",
-            "name": "Liszt： Années de pèlerinage III, S. 163 - 2. Aux cyprès de la Villa d'Este No. 1 (Thrénodie) [hSEagNMNBOo].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Liszt： Années de pèlerinage III, S. 163 - 2. Aux cyprès de la Villa d'Este No. 1 (Thrénodie) [hSEagNMNBOo].mp4",
-            "size": 16.523820999999998,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Liszt： Années de pèlerinage III, S. 163 - 2. Aux cyprès de la Villa d'Este No. 1 (Thrénodie) [hSEagNMNBOo].mp4?raw=true"
         },
         {
             "id": "6h03OKL4kaQ",
@@ -44,25 +30,11 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Raise Four [Cy_dvI0pReY].mp4?raw=true"
         },
         {
-            "id": "3jLzYXXm6J8",
-            "name": "Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
-            "size": 9.680372,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4?raw=true"
-        },
-        {
             "id": "-mCDK26EOGg",
             "name": "Hablame del Mar, Marinero [-mCDK26EOGg].mp4",
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/Hablame del Mar, Marinero [-mCDK26EOGg].mp4",
             "size": 8.630284,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Hablame del Mar, Marinero [-mCDK26EOGg].mp4?raw=true"
-        },
-        {
-            "id": "2MAI2j3MpfI",
-            "name": "Rimsky-Korsakov - The Legend of the Invisible City of Kitezh - Leningrad _ Mravinsky-2MAI2j3MpfI.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Rimsky-Korsakov - The Legend of the Invisible City of Kitezh - Leningrad _ Mravinsky-2MAI2j3MpfI.mp4",
-            "size": 47.557739999999995,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Rimsky-Korsakov - The Legend of the Invisible City of Kitezh - Leningrad _ Mravinsky-2MAI2j3MpfI.mp4?raw=true"
         },
         {
             "id": "0J4coFY7lxo",
@@ -72,13 +44,6 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/River [0J4coFY7lxo].mp4?raw=true"
         },
         {
-            "id": "isFUuE0M0vE",
-            "name": "Como Fue [isFUuE0M0vE].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Como Fue [isFUuE0M0vE].mp4",
-            "size": 7.147437999999999,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Como Fue [isFUuE0M0vE].mp4?raw=true"
-        },
-        {
             "id": "E3NSA1_bq1c",
             "name": "Conflict - Mighty and Superior-E3NSA1_bq1c.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/Conflict - Mighty and Superior-E3NSA1_bq1c.mp4",
@@ -86,11 +51,11 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Conflict - Mighty and Superior-E3NSA1_bq1c.mp4?raw=true"
         },
         {
-            "id": "IGIfEc6uL1o",
-            "name": "Camisa Molhada [IGIfEc6uL1o].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Camisa Molhada [IGIfEc6uL1o].mp4",
-            "size": 3.928153,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Camisa Molhada [IGIfEc6uL1o].mp4?raw=true"
+            "id": "BM7EQz-vl4s",
+            "name": "Tchaikovsky - Souvenir de Florence, Op. 70  (1890) [BM7EQz-vl4s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Tchaikovsky - Souvenir de Florence, Op. 70  (1890) [BM7EQz-vl4s].mp4",
+            "size": 45.60615,
+            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Tchaikovsky - Souvenir de Florence, Op. 70  (1890) [BM7EQz-vl4s].mp4?raw=true"
         },
         {
             "id": "3SaN5JyYMwE",
@@ -98,13 +63,6 @@
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/Extremoduro - Cabezabajo (Acústico)-3SaN5JyYMwE.mp4",
             "size": 6.217978,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Extremoduro - Cabezabajo (Acústico)-3SaN5JyYMwE.mp4?raw=true"
-        },
-        {
-            "id": "5iGcUhV3rKw",
-            "name": "Just a Little Bit of Loving [5iGcUhV3rKw].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Just a Little Bit of Loving [5iGcUhV3rKw].mp4",
-            "size": 9.071848,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Just a Little Bit of Loving [5iGcUhV3rKw].mp4?raw=true"
         },
         {
             "id": "K_WIGqKS5dA",
@@ -128,13 +86,6 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Cryin' Mood-2zGc7EP9O0I.mp4?raw=true"
         },
         {
-            "id": "uC5-x15aCjU",
-            "name": "Nobody's Diary [uC5-x15aCjU].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Nobody's Diary [uC5-x15aCjU].mp4",
-            "size": 10.833725,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Nobody's Diary [uC5-x15aCjU].mp4?raw=true"
-        },
-        {
             "id": "NK7wtEMChxw",
             "name": "Mily Balakirev - In Bohemia, Symphonic poem (1867) [NK7wtEMChxw].mp4",
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/Mily Balakirev - In Bohemia, Symphonic poem (1867) [NK7wtEMChxw].mp4",
@@ -147,13 +98,6 @@
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/The Puppet-e4fAoGTvNLc.mp4",
             "size": 6.328754,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/The Puppet-e4fAoGTvNLc.mp4?raw=true"
-        },
-        {
-            "id": "OEn0_9VcneY",
-            "name": "I'd Rather Charleston [OEn0_9VcneY].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/I'd Rather Charleston [OEn0_9VcneY].mp4",
-            "size": 9.740098999999999,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/I'd Rather Charleston [OEn0_9VcneY].mp4?raw=true"
         },
         {
             "id": "7JNsNb15Dc8",
@@ -177,13 +121,6 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/La niña de tus ojos ⧸ los piconeros [qCjw054dWzo].mp4?raw=true"
         },
         {
-            "id": "73CSB08Y3is",
-            "name": "Audrey Hepburn - Moon River [73CSB08Y3is].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Audrey Hepburn - Moon River [73CSB08Y3is].mp4",
-            "size": 27.875346999999998,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Audrey Hepburn - Moon River [73CSB08Y3is].mp4?raw=true"
-        },
-        {
             "id": "NGsWtVxm3F4",
             "name": "Los Cadetes de Linares - Pista Secreta-NGsWtVxm3F4.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/Los Cadetes de Linares - Pista Secreta-NGsWtVxm3F4.mp4",
@@ -203,34 +140,6 @@
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/Blitz - New Age - (UK_DK. UK, 1983)-3jLzYXXm6J8.mp4",
             "size": 7.804295,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Blitz - New Age - (UK_DK. UK, 1983)-3jLzYXXm6J8.mp4?raw=true"
-        },
-        {
-            "id": "ESZur_6aZUM",
-            "name": "Ernesto Lecuona： Suite Andalucía (1933) [ESZur_6aZUM].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Ernesto Lecuona： Suite Andalucía (1933) [ESZur_6aZUM].mp4",
-            "size": 60.306988999999994,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Ernesto Lecuona： Suite Andalucía (1933) [ESZur_6aZUM].mp4?raw=true"
-        },
-        {
-            "id": "9aegj1EAMDc",
-            "name": "Sappho von Mitilene Suite, Op. 68： II. Opfer [9aegj1EAMDc].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Sappho von Mitilene Suite, Op. 68： II. Opfer [9aegj1EAMDc].mp4",
-            "size": 3.6587099999999997,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Sappho von Mitilene Suite, Op. 68： II. Opfer [9aegj1EAMDc].mp4?raw=true"
-        },
-        {
-            "id": "PYz_GlMeQng",
-            "name": "1927, Clementine, Don Voorhees Orch. HD 78rpm [PYz_GlMeQng].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/1927, Clementine, Don Voorhees Orch. HD 78rpm [PYz_GlMeQng].mp4",
-            "size": 7.514437,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/1927, Clementine, Don Voorhees Orch. HD 78rpm [PYz_GlMeQng].mp4?raw=true"
-        },
-        {
-            "id": "1sORKrxLvfI",
-            "name": "Petite suite, CD 71, L. 65： III. Menuet (Live) [1sORKrxLvfI].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Petite suite, CD 71, L. 65： III. Menuet (Live) [1sORKrxLvfI].mp4",
-            "size": 6.4571819999999995,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Petite suite, CD 71, L. 65： III. Menuet (Live) [1sORKrxLvfI].mp4?raw=true"
         },
         {
             "id": "tJtFgVQbm20",
@@ -254,13 +163,6 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/The Best of Helen Forrest (1938-1944)-WkrjkN6o-u4.mp4?raw=true"
         },
         {
-            "id": "BM7EQz-vl4s",
-            "name": "Tchaikovsky - Souvenir de Florence, Op. 70  (1890)-BM7EQz-vl4s.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Tchaikovsky - Souvenir de Florence, Op. 70  (1890)-BM7EQz-vl4s.mp4",
-            "size": 45.60615,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Tchaikovsky - Souvenir de Florence, Op. 70  (1890)-BM7EQz-vl4s.mp4?raw=true"
-        },
-        {
             "id": "7siu5MQ_8s0",
             "name": "Babasonicos - Putita (video oficial) [HD]-7siu5MQ_8s0.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/Babasonicos - Putita (video oficial) [HD]-7siu5MQ_8s0.mp4",
@@ -282,25 +184,11 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Solitude (Alternate Take) [C_wT4xRpPoU].mp4?raw=true"
         },
         {
-            "id": "L9aVAtG5xwc",
-            "name": "Together In Electric Dreams (Extended⧸2003 Digital Remaster) [L9aVAtG5xwc].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Together In Electric Dreams (Extended⧸2003 Digital Remaster) [L9aVAtG5xwc].mp4",
-            "size": 11.276252999999999,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Together In Electric Dreams (Extended⧸2003 Digital Remaster) [L9aVAtG5xwc].mp4?raw=true"
-        },
-        {
             "id": "TCAeDIF2svc",
             "name": "Carlos Santana - EUROPA (en vivo)-TCAeDIF2svc.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/Carlos Santana - EUROPA (en vivo)-TCAeDIF2svc.mp4",
             "size": 37.323268999999996,
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Carlos Santana - EUROPA (en vivo)-TCAeDIF2svc.mp4?raw=true"
-        },
-        {
-            "id": "Qfd5srbPUlo",
-            "name": "The Sugarcubes - Regina [Qfd5srbPUlo].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/The Sugarcubes - Regina [Qfd5srbPUlo].mp4",
-            "size": 10.463351,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/The Sugarcubes - Regina [Qfd5srbPUlo].mp4?raw=true"
         },
         {
             "id": "Y-1_caICO1w",
@@ -317,13 +205,6 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Fascinating Rhythm (Mono Mix) [m1AzmgFOA68].mp4?raw=true"
         },
         {
-            "id": "lXCYni_d1Nw",
-            "name": "Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/v2/videos/Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4",
-            "size": 26.198241,
-            "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/Vivaldi - Salve Regina - Andreas Scholl-lXCYni_d1Nw.mp4?raw=true"
-        },
-        {
             "id": "bm0XIfbfKp4",
             "name": "~ literally just vibin'~  _ chill pop, indie rock and other genres playlist-bm0XIfbfKp4.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v2/videos/~ literally just vibin'~  _ chill pop, indie rock and other genres playlist-bm0XIfbfKp4.mp4",
@@ -331,5 +212,5 @@
             "url": "https://github.com/circuitalmynds/music_v2/blob/main/videos/~ literally just vibin'~  _ chill pop, indie rock and other genres playlist-bm0XIfbfKp4.mp4?raw=true"
         }
     ],
-    "total_size": 929.6339389999999
+    "total_size": 650.746345
 }
